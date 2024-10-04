@@ -1,2 +1,2 @@
 # .github
-Orga de Endless
+Orga de Endless Community
